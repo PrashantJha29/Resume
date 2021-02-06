@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(162, 247, 228);
+}
+
+h1{
+    color: red;
+}
+h2{
+    color:rgb(46, 168, 46)
+}
+hr{
+    border-width: 1px;
+    border-color: rgb(53, 28, 53);
+}
+img{
+    border-radius: 100%;
+}
